@@ -1,8 +1,8 @@
-# The Mystery of Veils
+# Velos: The Mystery of Shrouds
 
-The Mystery of Veils teaches us that everything perceived is veiled by myriad illusions. Indeed, our Mind's Eye has evolved not to operate on the Recondite Truth of objective reality, but upon the ilusions themselves. Some of these can dispelled by the tools of science and rationality, but others cannot be dispelled without proper knowledge of the Arcane Mysteries.
+The Mystery of Shrouds teaches us that everything perceived is veiled by myriad illusions. Indeed, our Mind's Eye has evolved not to operate on the Recondite Truth of objective reality, but upon the ilusions themselves. Some of these can dispelled by the tools of science and rationality, but others cannot be dispelled without proper knowledge of the Arcane Mysteries.
 
-Any Initiate to this Mystery can use their intuition to discern aspects of the truth hidden under these Veils. With the proper rite, the Veils can be removed... or new Veils laid down to obscure the perception of the uninitiated.
+Any Initiate to this Mystery can use their intuition to discern aspects of the truth hidden under these Shrouds or _Velos_. With the proper rite, the Shrouds can be removed... or new Veils laid down to obscure the perception of the uninitiated.
 
 ## Move: Sense the Veil (Passive)
 When __something supernatural ocurrs in your surroundings__ even if you are unable to perceive it normally, you feel it in your Soul. The MC might ask you a question, and then tells you what you sense and how you sense it.

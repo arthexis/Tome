@@ -8,5 +8,5 @@ These four Mysteries are also collectivelly known as the Tetragram of Power and 
 - Hilos: Mystery of Threads 
 - Dagas: Mystery of Daggers
 
-As the Initiates understanding of this Mystery increases, they will become able to 
+As the Initiate's understanding of each Mystery in the Square increases, they will become able to 
 combine them into complex rituals to achieve more advanced Magics.

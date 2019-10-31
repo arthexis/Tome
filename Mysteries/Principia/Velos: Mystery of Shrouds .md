@@ -39,7 +39,9 @@ When you __want to magically hide or disguise something__ by performing an _occu
 __On a 10+__, the illusion lasts for as long as needed and is very precise. __On a 7+__, the illusion lasts just a short moment or is not very accurate, MC's choice. 
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 
-Occultation Rites:
+### Occultation Rites
+
+The following are common occultation rites:
 
 - Hiding something under a veil or inside an opaque container.
 - Use smoke, dust, fog, shadows or lights to obscure something.

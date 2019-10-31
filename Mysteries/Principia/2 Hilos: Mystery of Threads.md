@@ -8,17 +8,27 @@ An Initiate can sense the invisible sympathies connecting all things.
 With the proper rites, the connections can be tightened or loosened, invisibly affecting the 
 relationships between things.
 
+### Magical Sympathy
+
+Using this Mystery usually requires magical sympathy with another thing. 
+This sympathy exists only between things that satisfy at least one of the following:
+
+- They are in physical contact right now.
+- They have a strong emotional relationship or blood bond.
+- One thing was part of the other thing for a long time.
+- They are bound together by a supernatural power.
+
 
 ## Move: Sense the Thread
 
 When you __sense two distinct things and focus__, you can feel how strong their connection is. 
-The MC tells you if one or both of them has a magical sympathy towards the other. 
+The MC tells you if one or both of them has a _magical sympathy_ towards the other. 
 
 
 ## Move: Bind the Thread
 
 When you __have a thing with magical sympathy towards another thing__, and use a _binding rite_ 
-to bring them closer, __roll +Hilos__. __On a 10+__, choose two. __On a 7+__, choose only one.
+to bring them closer, __roll +Hilos__. __On a 10+__, choose one or two. __On a 7+__, choose only one.
 
 * You pass the sympathy to another thing used in your rite.
 * You know where to go or what to do to reach the other thing.
@@ -26,7 +36,7 @@ to bring them closer, __roll +Hilos__. __On a 10+__, choose two. __On a 7+__, ch
 * The next Magic you use on this thing, happens to the other thing too.
 * You glimpse the other thing as it exists now.
 
-__On a miss__, choose one anyways but something goes wrong, mark experiencie.
+__On a miss__, choose one anyways but something goes wrong, __mark experience__.
 
 ### Binding Rites
 

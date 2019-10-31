@@ -28,6 +28,11 @@ The following are common revelation rites:
 - Interpreting signs and omens in natural phenomena. 
 - Consulting the results of a game of chance.
 
+### Revealing Ephemerals
+
+Emphemeral entities, such as ghosts, spirits, angels and psychic projections are by their nature invisible and intangible. Once revealed through this Mystery, an Entity is no longer hidden from the Initiate and can be perceived and affected by any Magic they can use upon things that they can perceive, though they remain physically intangible.
+
+
 ## Move: Draw the Veil (Inverted)
 
 When you __want to magically hide or disguise something__ by performing an _occultation rite_, __roll +Veils__. __On a hit__, choose one or two options:
@@ -36,7 +41,7 @@ When you __want to magically hide or disguise something__ by performing an _occu
 - Others avoid paying attention to it, if they are able.
 - It leaves no tracks or record of its passing.
 
-__On a 10+__, the illusion lasts for as long as needed and is very precise. __On a 7+__, the illusion lasts just a short moment or is not very accurate, MC's choice. 
+__On a 10+__, the illusion is very precise. __On a 7+__, the illusion has a small flaw chosen by the MC. Either way, the illusion lasts until dispelled.
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 
 ### Occultation Rites
@@ -46,3 +51,9 @@ The following are common occultation rites:
 - Hiding something under a veil or inside an opaque container.
 - Use smoke, dust, fog, shadows or lights to obscure something.
 - Burying something or destroying evdicence of its existence.
+
+### Handling Illusions
+
+An illusion effects all human senses. It triggers the move __Sense the Veil__ when an Initiate is in it's presence. For everybody else, the illusion is perfectly believable and they will try to rationalize it as best as they can. If believing it is impossible, possibly because it has a flaw and it has been noticed, the illusion is dispelled. 
+
+Anyone who witnesses the moment when an illusion is created or dispelled, quickly forgets about it and carries on with their life, simply accepting whatever new thing is presented to their senses as if it had always been there.

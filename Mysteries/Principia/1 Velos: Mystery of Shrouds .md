@@ -4,12 +4,17 @@ The Mystery of Shrouds teaches us that everything perceived is veiled by myriad 
 
 Any Initiate to this Mystery can use their intuition to discern aspects of the truth hidden under these Shrouds or _Velos_. With the proper rite, the Shrouds can be removed... or new Veils laid down to obscure the perception of the uninitiated.
 
+### Mysteries cannot be Unseen
+
+This applies to all Mysteries, but specially to the Shrouds: once something has been revealed, the Initiate cannot help but see the truth from then on. A Magus will never fall for the exact same illusion twice. Once an invisible thing is known, the Magus is unable to stop seeing it' realm form, even if they want to.
+
+
 ## Move: Sense the Veil (Passive)
 When __something supernatural ocurrs in your surroundings__ even if you are unable to perceive it normally, you feel it in your Soul. The MC might ask you a question, and then tells you what you sense and how you sense it.
 
 ## Move: Part the Veil (Active)
 
-When __something is hidden, unclear or deceitful__, and you perform a _revelation rite_, __roll +Veils__. __On a 7+__, the MC answers one question. __On a 10+__, the answer two.
+When __something is hidden, unclear or deceitful__, and you perform a _revelation rite_, __roll +Veils__. __On a 7+__, the MC answers one question of your choice with a true and useful answer. __On a 10+__, the MC answers two questions.
 
 - Where is something hidden?
 - What is here that cannot be perceived?
@@ -31,6 +36,10 @@ The following are common revelation rites:
 ### Revealing Ephemerals
 
 Emphemeral entities, such as ghosts, spirits, angels and psychic projections are by their nature invisible and intangible. Once revealed through this Mystery, an Entity is no longer hidden from the Initiate and can be perceived and affected by any Magic they can use upon things that they can perceive, though they remain physically intangible.
+
+### Revealing Thresholds
+
+This Mystery can reveal the Initiate the presence of a Threshold: a portal to another realm or state of existence. By asking how the Threshold works, the Magus can learn to use it to cross over to that other realm or state. However, they cannot learn anything from what lies on the other side until they have experienced that realm or state at least once. 
 
 
 ## Move: Draw the Veil (Inverted)

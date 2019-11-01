@@ -8,7 +8,7 @@ An Initiate to this Mystery can sense when an action they are about to take is d
 This Mystery usually only affects the Initiate using it, and not anyone else. 
 
 
-## Move: Sense the Vessel
+## Move: Sense the Ripple
 
 When you are about to __attempt an action that could hurt you or is bound to fail__, the MC tells you. 
 You can then choose a different course of action, such as performing a quick rite (using any Principia, not only Vessels). 
@@ -16,7 +16,7 @@ You can then choose a different course of action, such as performing a quick rit
 This Move also triggers when something external is going to hurt, change or bind the Initiate, so that they always have one chance to use a quick rite in response. 
 
 
-## Move: Fill the Vessel
+## Move: Hone the Vessel
 
 When you __need to be stronger, faster, smarter or thoughter__ and you perform an _enhancement rite_, __roll +Copas__.
 __On a 7+__, choose one benefit that lasts for a scene.

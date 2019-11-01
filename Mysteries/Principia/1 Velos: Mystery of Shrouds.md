@@ -19,7 +19,7 @@ When __something supernatural ocurrs in your surroundings__ even if you are unab
 The MC might ask you a question, and then tells you what you sense and how you sense it.
 
 
-## Move: Revelation
+## Move: Reveal the Truth
 
 When __something is hidden, unclear or deceitful__, and you perform a _revelation rite_, __roll +Veils__. 
 __On a 7+__, the MC answers one question of your choice with a true and useful answer.
@@ -54,7 +54,7 @@ By asking how the Threshold works, the Magus can learn to use it to cross over t
 However, they cannot learn anything from what lies on the other side until they have experienced that realm or state at least once. 
 
 
-## Move: False Image
+## Move: Craft Illusion
 
 When you __want to magically hide or disguise something__ by performing an _occultation rite_, __roll +Veils__. 
 __On a hit__, choose one or two options:

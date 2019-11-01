@@ -19,7 +19,7 @@ When __something supernatural ocurrs in your surroundings__ even if you are unab
 The MC might ask you a question, and then tells you what you sense and how you sense it.
 
 
-## Move: Reveal the Truth
+## Move: Reveal Truth
 
 When __something is hidden, unclear or deceitful__, and you perform a _revelation rite_, __roll +Veils__. 
 __On a 7+__, the MC answers one question of your choice with a true and useful answer.

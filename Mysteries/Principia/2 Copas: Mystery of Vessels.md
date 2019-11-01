@@ -37,6 +37,7 @@ The following are common enhancement rites:
 * Preparing and consuming something a ceremonial meal. 
 * Performing some manner of ritual purification of the body.
 * Completing a kata, mantra, dance, breathing excercise or similar.
+* Don a sacred outfit or costume and wield purified or consacrated tools.
 
 
 ### Supernatural Abilities

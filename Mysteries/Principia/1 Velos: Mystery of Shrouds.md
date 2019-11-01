@@ -13,7 +13,7 @@ This applies to all Mysteries, but specially to the Shrouds: once something has 
 Once an invisible thing is known, the Magus is unable to stop seeing it' realm form, even if they want to.
 
 
-## Move: Sense the Veil
+## Move: Unseen Senses
 
 When __something supernatural ocurrs in your surroundings__ even if you are unable to perceive it normally, you feel it in your Soul. 
 The MC might ask you a question, and then tells you what you sense and how you sense it.

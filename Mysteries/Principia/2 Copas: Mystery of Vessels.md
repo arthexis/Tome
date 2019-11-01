@@ -10,10 +10,9 @@ This Mystery usually only affects the Initiate using it, and not anyone else.
 
 ## Move: Sense the Ripple
 
-When you are about to __attempt an action that could hurt you or is bound to fail__, the MC tells you. 
-You can then choose a different course of action, such as performing a quick rite (using any Principia, not only Vessels). 
+When you are about to __attempt an action that could hurt you or is bound to fail__, the MC tells you and gives you a choice: go ahead and suffer the consequence or take a different course of action, such as performing a quick rite (you can use any of the Four Principia, not only Vessels). 
 
-This Move also triggers when something external is going to hurt, change or bind the Initiate, so that they always have one chance to use a quick rite in response. 
+This Move also triggers when something external is going to hurt, change or bind the Initiate, so that they always have one chance to use a quick rite in response to danger. 
 
 
 ## Move: Hone the Vessel

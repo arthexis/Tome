@@ -8,7 +8,7 @@ An Initiate to this Mystery can sense when an action they are about to take is d
 This Mystery usually only affects the Initiate using it, and not anyone else. 
 
 
-## Move: Mage Armor
+## Move: Stay the Vessel
 
 When you are about to __attempt an action that could hurt you or is bound to fail__, the MC tells you and gives you a choice: go ahead and suffer the consequence or take a different course of action, such as performing a quick rite (you can use any of the Four Principia, not only Vessels). 
 

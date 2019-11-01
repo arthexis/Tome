@@ -5,8 +5,6 @@ Living things, machines, magical constructs, everything is powered, directed and
 
 An Initiate to this Mystery can sense when an action they are about to take is dangerous, hurtful or impossible in their current state. With the appropriate rite, they can empower and attune their body to make the task possible and safe, or force their own Soul to briefly leave their body to explore the Mysteries unhindered.
 
-This Mystery usually only affects the Initiate using it, and not anyone else. 
-
 
 ## Move: Forked Path 
 

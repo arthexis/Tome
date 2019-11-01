@@ -26,6 +26,9 @@ Some Moves require dice to be rolled to determine the outcome: Roll two six-side
 This means there is a total of 12 very simple Moves that all Mages can use, without requiring additional training. 
 Not all 12 are used as frequently, only half those Moves are used on a day to day basis by the average Initiate.
 
+
+### Formulae
+
 On the other hand, Initiates ocasionally use more complex forms of Magic that go beyond the Four Principia. 
 These High Rituals or Formulae, have far-reaching effects and are capable of great miracles. 
 Complex Formulae are created by combining the Moves from the Four Principia and their rites in specific orders. 

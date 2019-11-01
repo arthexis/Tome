@@ -6,13 +6,13 @@ Living things, machines, magical constructs, everything is powered, directed and
 An Initiate to this Mystery can sense when an action they are about to take is dangerous, hurtful or impossible in their current state. With the appropriate rite, they can empower and attune their body to make the task possible and safe, or force their own Soul to briefly leave their body to explore the Mysteries unhindered.
 
 
-## Move: Sense the Vessel (Neutral)
+## Move: Sense the Vessel
 
 When you are about to __attempt an action that could hurt you or is bound to fail__, the MC tells you. 
 You can then choose a different course of action, such as performing a rite. 
 
 
-## Move: Fill the Vessel (Positive)
+## Move: Fill the Vessel
 
 When you __need to be stronger, faster, smarter or thoughter__ and you perform an _enhancement rite_, __roll +Copas__.
 __On a 7+__, choose one benefit that lasts until another one is used.
@@ -34,7 +34,7 @@ The following are common enhancement rites:
 * Completing a kata, mantra, dance, breathing excercise or similar.
 
 
-## Move: Empty the Vessel (Negative)
+## Move: Empty the Vessel
 
 When you attempt to __proyect yourself out of your body__, by performing a _meditation rite_, __roll +Copas__. 
 __On a 7+__, your Soul leaves your body as an ephemeral entity, but stays anchored to it until you return. 

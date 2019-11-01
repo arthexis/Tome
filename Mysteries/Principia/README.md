@@ -13,18 +13,19 @@ As the Initiate's understanding of each Mystery in the Square increases, they wi
 
 ## Using Magic: Moves
 
-Each of the Principia empowers three Moves. 
-These Moves are either a magical trigger or a simple spell, cantrip, charm or trick that can be performed through a quick rite. 
-The type of rite required depends on which Principia or Move is being used. 
+Each of the Principia empowers three distinct __Moves__. 
+Each Move is a magical trigger or a simple cantrip, charm or trick that can be performed with only a quick rite. 
+The type of rite required depends on which Move is being used. 
 
-Each Move has a trigger that indicates when it can be used. 
+There is a total of twelve basic Moves that all Mages can use, without requiring additional training. 
+Not all tweleve are used frequently, less than half those Moves are used on a day to day basis by the average Initiate.
+
+### Rolling Dice
+
 Some Moves require dice to be rolled to determine the outcome: Roll two six-sided dice and add your score in the Principia being used.
 
 * A result of 7 or more means the magic works as expected, and if its 10 or more you gain an extra benefit. 
 * A result of 6 or less means something goes wrong: Corruption has taken a hold of the Magic and the MC tells you what happens.
-
-This means there is a total of 12 very simple Moves that all Mages can use, without requiring additional training. 
-Not all 12 are used as frequently, only half those Moves are used on a day to day basis by the average Initiate.
 
 
 ### Formulae

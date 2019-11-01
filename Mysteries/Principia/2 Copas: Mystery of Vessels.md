@@ -17,7 +17,7 @@ This Move also triggers when something external is going to hurt, change or bind
 
 ## Move: Empty the Vessel
 
-When you __need to be stronger, faster, smarter or thoughter__ and you perform an _enhancement rite_, __roll +Copas__.
+When you __need to be stronger, faster, smarter or thoughter__ and you perform an _embodiment rite_, __roll +Copas__.
 __On a 7+__, choose one benefit that lasts until you end it or try to gain a different one.
 __On a 10+__, you can choose two benefits at once. 
 
@@ -29,9 +29,9 @@ __On a 10+__, you can choose two benefits at once.
 
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 
-### Enhancement Rites
+### Embodiment Rites
 
-The following are common enhancement rites:
+The following are common embodiment rites:
 
 * Imbibing a substance that alters your perception or state of mind.
 * Preparing and consuming something a ceremonial meal. 

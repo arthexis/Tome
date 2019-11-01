@@ -8,14 +8,14 @@ An Initiate to this Mystery can sense when an action they are about to take is d
 This Mystery usually only affects the Initiate using it, and not anyone else. 
 
 
-## Move: Stay the Vessel
+## Move: Augury 
 
 When you are about to __attempt an action that could hurt you or is bound to fail__, the MC tells you and gives you a choice: go ahead and suffer the consequence or take a different course of action, such as performing a quick rite (you can use any of the Four Principia, not only Vessels). 
 
 This Move also triggers when something external is going to hurt, change or bind the Initiate, so that they always have one chance to use a quick rite in response to danger. 
 
 
-## Move: Empty the Vessel
+## Move: Embodiment
 
 When you __need to be stronger, faster, smarter or thoughter__ and you perform an _embodiment rite_, __roll +Copas__.
 __On a 7+__, choose one benefit that lasts until you end it or try to gain a different one.

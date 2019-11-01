@@ -44,7 +44,7 @@ __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 
 The following are common binding rites:
 
-- Burn or break the thing that houses a magical sympathetic.
+- Burn or break the thing that houses a magical sympathy.
 - Tie, weave, braid, mix or knot a thread around the thing.
 - Inscribe the thing with magical symbols.
 - Place the thing in bondage or enclose it with magical geometry.

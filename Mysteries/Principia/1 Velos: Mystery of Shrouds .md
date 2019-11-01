@@ -1,20 +1,29 @@
 # Velos: The Mystery of Shrouds
 
-The Mystery of Shrouds teaches us that everything perceived is veiled by myriad illusions. Indeed, our Mind's Eye has evolved not to operate on the Recondite Truth of objective reality, but upon the ilusions themselves. Some of these can dispelled by the tools of science and rationality, but others cannot be dispelled without proper knowledge of the Arcane Mysteries.
+The Mystery of Shrouds teaches us that everything perceived is veiled by myriad illusions. 
+Indeed, our Mind's Eye has evolved not to operate on the Recondite Truth of objective reality, but upon the ilusions themselves. 
+Some of these can dispelled by the tools of science and rationality, but others cannot be dispelled without proper knowledge of the Arcane Mysteries.
 
-Any Initiate to this Mystery can use their intuition to discern aspects of the truth hidden under these Shrouds or _Velos_. With the proper rite, the Shrouds can be removed... or new Veils laid down to obscure the perception of the uninitiated.
+Any Initiate to this Mystery can use their intuition to discern aspects of the truth hidden under these Shrouds or _Velos_. 
+With the proper rite, the Shrouds can be removed... or new Veils laid down to obscure the perception of the uninitiated.
 
 ### Mysteries cannot be Unseen
 
-This applies to all Mysteries, but specially to the Shrouds: once something has been revealed, the Initiate cannot help but see the truth from then on. A Magus will never fall for the exact same illusion twice. Once an invisible thing is known, the Magus is unable to stop seeing it' realm form, even if they want to.
+This applies to all Mysteries, but specially to the Shrouds: once something has been revealed, the Initiate cannot help but see the truth from then on, a magus never falls for the same illusion twice. 
+Once an invisible thing is known, the Magus is unable to stop seeing it' realm form, even if they want to.
 
 
 ## Move: Sense the Veil (Passive)
-When __something supernatural ocurrs in your surroundings__ even if you are unable to perceive it normally, you feel it in your Soul. The MC might ask you a question, and then tells you what you sense and how you sense it.
+
+When __something supernatural ocurrs in your surroundings__ even if you are unable to perceive it normally, you feel it in your Soul. 
+The MC might ask you a question, and then tells you what you sense and how you sense it.
+
 
 ## Move: Part the Veil (Active)
 
-When __something is hidden, unclear or deceitful__, and you perform a _revelation rite_, __roll +Veils__. __On a 7+__, the MC answers one question of your choice with a true and useful answer. __On a 10+__, the MC answers two questions.
+When __something is hidden, unclear or deceitful__, and you perform a _revelation rite_, __roll +Veils__. 
+__On a 7+__, the MC answers one question of your choice with a true and useful answer.
+__On a 10+__, the MC answers a second question after the first one.
 
 - Where is something hidden?
 - What is here that cannot be perceived?
@@ -35,22 +44,28 @@ The following are common revelation rites:
 
 ### Revealing Ephemerals
 
-Emphemeral entities, such as ghosts, spirits, angels and psychic projections are by their nature invisible and intangible. Once revealed through this Mystery, an Entity is no longer hidden from the Initiate and can be perceived and affected by any Magic they can use upon things that they can perceive, though they remain physically intangible.
+Emphemeral entities, such as ghosts, spirits, angels and psychic projections are by their nature invisible and intangible. 
+Once revealed through this Mystery, an Entity is no longer hidden from the Initiate and can be perceived and affected by any Magic they can use upon things that they can perceive, though they remain physically intangible.
 
 ### Revealing Thresholds
 
-This Mystery can reveal the Initiate the presence of a Threshold: a portal to another realm or state of existence. By asking how the Threshold works, the Magus can learn to use it to cross over to that other realm or state. However, they cannot learn anything from what lies on the other side until they have experienced that realm or state at least once. 
+This Mystery can reveal the Initiate the presence of a Threshold: a portal to another realm or state of existence. 
+By asking how the Threshold works, the Magus can learn to use it to cross over to that other realm or state. 
+However, they cannot learn anything from what lies on the other side until they have experienced that realm or state at least once. 
 
 
 ## Move: Draw the Veil (Inverted)
 
-When you __want to magically hide or disguise something__ by performing an _occultation rite_, __roll +Veils__. __On a hit__, choose one or two options:
+When you __want to magically hide or disguise something__ by performing an _occultation rite_, __roll +Veils__. 
+__On a hit__, choose one or two options:
 
 - It's appearance changes to something that is similar.
 - Others avoid paying attention to it, if they are able.
 - It leaves no tracks or record of its passing.
 
-__On a 10+__, the illusion is very precise. __On a 7+__, the illusion has a small flaw chosen by the MC. Either way, the illusion lasts until dispelled.
+__On a 10+__, the illusion is very precise. __On a 7+__, the illusion has a small flaw chosen by the MC. 
+Either way, the illusion lasts until dispelled.
+
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 
 ### Occultation Rites
@@ -63,6 +78,9 @@ The following are common occultation rites:
 
 ### Handling Illusions
 
-An illusion effects all human senses. It triggers the move __Sense the Veil__ when an Initiate is in it's presence. For everybody else, the illusion is perfectly believable and they will try to rationalize it as best as they can. If believing it is impossible, possibly because it has a flaw and it has been noticed, the illusion is dispelled. 
+An illusion created by this mystery effects all human senses. 
+It triggers the move __Sense the Veil__ when an Initiate is in it's presence. 
+For everybody else, the illusion is perfectly believable and they will try to rationalize it as best as they can. 
+If believing it is impossible, possibly because it has a flaw and it has been noticed, the illusion is dispelled. 
 
 Anyone who witnesses the moment when an illusion is created or dispelled, quickly forgets about it and carries on with their life, simply accepting whatever new thing is presented to their senses as if it had always been there.

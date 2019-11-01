@@ -18,17 +18,23 @@ This sympathy exists only between things that satisfy at least one of the follow
 - One thing was part of the other thing for a long time.
 - They are bound together by a supernatural power.
 
+If a thing is being affected by a magical enchantment, even something such as an illusion
+placed over it, the enchanted object has magical sympathy towards the enchanter. If this 
+sympathy is somehow broken, the enchantment ends. 
 
-## Move: Sense the Thread
+
+## Move: Sense the Thread (Passive)
 
 When you __sense two distinct things and focus__, you can feel how strong their connection is. 
 The MC tells you if one or both of them has a _magical sympathy_ towards the other. 
 
 
-## Move: Bind the Thread
+## Move: Bind the Thread (Active)
 
 When you __have a thing with magical sympathy towards another thing__, and use a _binding rite_ 
-to bring them closer, __roll +Hilos__. __On a 10+__, choose one or two. __On a 7+__, choose only one.
+to bring them closer, __roll +Hilos__. 
+__On a 10+__, choose one or two. 
+__On a 7+__, choose only one.
 
 * You pass the sympathy to another thing used in your rite.
 * You know where to go or what to do to reach the other thing.
@@ -48,3 +54,10 @@ The following are common binding rites:
 - Place the thing in bondage or enclose it with magical geometry.
 - Utter the sacred name that defines the other thing.
 
+
+## Move: Snap the Thread (Inverted)
+
+When you __have a thing that has magical sympathy to other thing__, and use a _abjuration rite_ 
+to destroy the connection between them, __roll +Hilos__. 
+__On a 10+__, the sympathy is broken. 
+__On a 7+__, the sympathy is broken for good.

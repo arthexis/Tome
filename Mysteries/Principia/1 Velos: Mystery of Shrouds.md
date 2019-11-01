@@ -75,6 +75,7 @@ The following are common occultation rites:
 - Hiding something under a veil or inside an opaque container.
 - Use smoke, dust, fog, shadows or lights to obscure something.
 - Burying something or destroying evdicence of its existence.
+- Don a mask or costume, or apply makeup.
 
 ### Handling Illusions
 

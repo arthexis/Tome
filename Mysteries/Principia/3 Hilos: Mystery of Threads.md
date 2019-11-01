@@ -18,10 +18,6 @@ This sympathy exists only between things that satisfy at least one of the follow
 - One thing was part of the other thing for a long time.
 - They are bound together by a supernatural power.
 
-If a thing is being affected by a magical enchantment, even something such as an illusion
-placed over it, the enchanted object has magical sympathy towards the enchanter. If this 
-sympathy is somehow broken, the enchantment ends. 
-
 
 ## Move: Sense the Thread (Passive)
 
@@ -59,5 +55,19 @@ The following are common binding rites:
 
 When you __have a thing that has magical sympathy to other thing__, and use a _abjuration rite_ 
 to destroy the connection between them, __roll +Hilos__. 
-__On a 10+__, the sympathy is broken. 
-__On a 7+__, the sympathy is broken for good.
+__On a 7+__, the sympathy is broken. 
+__On a 10+__, you can also choose one or both:
+
+* Specify a condition that will restore the sympathy.
+* Prevent the sympathy from being formed again.
+
+### Mystic Anchors
+
+If a thing is being affected by a magical enchantment, such as an illusion
+placed over it, the enchanted object has magical sympathy towards the enchanter. 
+If this sympathy is somehow broken, the enchantment ends. 
+
+Similarly, ephemeral entities cannot stay in the material plane without a body, 
+but they can anchor themselves to objects, creatures and places. This creates a 
+magical sympathy with their anchor, and if the anchor or the sympathy is broken, 
+the entity will cease to exist or return to the realm where it came from.

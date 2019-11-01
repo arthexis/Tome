@@ -8,23 +8,24 @@ An Initiate to this Mystery can sense when an action they are about to take is d
 This Mystery usually only affects the Initiate using it, and not anyone else. 
 
 
-## Move: Sense the Ripple
+## Move: Mage Armor
 
 When you are about to __attempt an action that could hurt you or is bound to fail__, the MC tells you and gives you a choice: go ahead and suffer the consequence or take a different course of action, such as performing a quick rite (you can use any of the Four Principia, not only Vessels). 
 
 This Move also triggers when something external is going to hurt, change or bind the Initiate, so that they always have one chance to use a quick rite in response to danger. 
 
 
-## Move: Hone the Vessel
+## Move: Empty the Vessel
 
 When you __need to be stronger, faster, smarter or thoughter__ and you perform an _enhancement rite_, __roll +Copas__.
-__On a 7+__, choose one benefit that lasts for a scene.
+__On a 7+__, choose one benefit that lasts until you end it or try to gain a different one.
 __On a 10+__, you can choose two benefits at once. 
 
 * You become skilled in a task, such as playing an instrument, hacking, picking locks, juggling, etc.
 * You can jump, throw or run a long distance in a short time, better than any athlete.
 * You become resistant to something that would harm, change or bind you.
 * You obtain a supernatural ability from a component used in the enhancement rite.
+* You perform astral projection.
 
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 
@@ -36,6 +37,7 @@ The following are common enhancement rites:
 * Preparing and consuming something a ceremonial meal. 
 * Performing some manner of ritual purification of the body.
 * Completing a kata, mantra, dance, breathing excercise or similar.
+* Meditating on a secluded, tranquil, dark space.
 * Don a sacred outfit or costume and wield purified or consacrated tools.
 
 
@@ -45,20 +47,11 @@ This Mystery will not grant the Initiate supernatural abilities unless special s
 These special components, that are very often supernatural in origin, can be discovered through trial and error or learned from Grimoires and Masters. 
 Once a component is discovered, you may write it down so that you can use it in the future.
 
+### Astral Projection
 
-## Move: Empty the Vessel
-
-When you attempt to __proyect yourself out of your body__, by performing a _meditation rite_, __roll +Copas__. 
-__On a 7+__, your Soul leaves your unconscious body as an ephemeral entity, but stays anchored to it until you return. 
-__On a 10+__, you also retain some awareness of the surroundings of your body.
-
-__On a miss__, something goes wrong, __mark experience__.
-
-### Meditation Rites
-
-The following are common meditation rites:
-
-* Meditating in a silent and dark place. 
-* Overloading your senses through ecstatic experience.
+When you perform Astral Projection, your Mind and Soul exit your body and behave like an ephemeral entity. 
+Your body goes limp and enters a state of suspended animation while your Mind continues to sense the material plane around it, with your body serving as an anchor.
+Your projection can levitate and go through solid surfaces in the material plane.
+You can also choose to project to other nearby realms, such as the Astral planes which can be entered anywhere a Mind exists. 
 
 

@@ -22,7 +22,7 @@ The 10 Moves available to all Mages using only the Four Principia are:
 1. Unseen Sense (Velos)
 1. Reveal Truth (Velos)
 1. Craft Illusion (Velos)
-1. Augury (Copas)
+1. Forked Path (Copas)
 1. Empty Body (Copas)
 1. Correspondence (Hilos)
 1. Bind Together (Hilos)

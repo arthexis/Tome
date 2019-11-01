@@ -1,7 +1,7 @@
 # The Tetragram of Power
 
 Each magus must become an Initiatie in at least four basic _Principia_ of Magic. 
-These four Mysteries are also collectivelly known as the Tetragram of Power and the Squared Circle:
+These four Mysteries are also collectivelly known as the Tetragram of Power, the Squared Circle or the Sacred Cardinal:
 
 - Velos: Mystery of Shrouds
 - Copas: Mystery of Vessels

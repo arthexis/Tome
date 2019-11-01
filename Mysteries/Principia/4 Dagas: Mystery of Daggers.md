@@ -38,6 +38,6 @@ To form a basic contract the Mage makes a request, and the other entity declares
 The condition _must_ be something that requires less effort than the original request, and must be something that the Mage is actually capable of providing.
 The Initiate can volunteer a service if the entity doesn't have a specific condition that it wants.
 If both parties agree to the request and conditions, the contract is formed. 
+A bond of magical sympathy forms between the parties. 
 
-A magical sympathy forms between the parties. 
-If the contract is broken, something goes wrong and the MC decides what happens. 
+If the contract is broken, something goes wrong: the MC decides what happens. 

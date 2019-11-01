@@ -35,8 +35,9 @@ The 10 Moves available to all Mages using only the Four Principia are:
 
 Some Moves require dice to be rolled to determine the outcome: Roll two six-sided dice and add your score in the Principia being used.
 
-* A result of 7 or more means the magic works as expected, and if its 10 or more you gain an extra benefit. 
-* A result of 6 or less means something goes wrong: Corruption has taken a hold of the Magic and the MC tells you what happens.
+* A result of 7 or more is a hit: the magic works as expected. 
+* A result of 10 or more gains you an extra benefit, on top of the basic hit.
+* A result of 6 or less is a miss: something goes wrong, Corruption has taken a hold of your Magic and the MC tells you what happens.
 
 
 ### Formulae

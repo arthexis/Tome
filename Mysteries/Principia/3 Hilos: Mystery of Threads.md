@@ -19,13 +19,13 @@ This sympathy exists only between things that satisfy at least one of the follow
 - They are bound together by a supernatural power.
 
 
-## Move: Sense the Thread (Neutral)
+## Move: Sense the Thread
 
 When you __sense two distinct things and focus__, you can feel how strong their connection is. 
 The MC tells you if one or both of them has a _magical sympathy_ towards the other. 
 
 
-## Move: Bind the Thread (Positive)
+## Move: Bind the Thread
 
 When you __have a thing with magical sympathy towards another thing__, and use a _binding rite_ 
 to bring them closer, __roll +Hilos__. 
@@ -51,7 +51,7 @@ The following are common binding rites:
 - Utter the sacred name that defines the other thing.
 
 
-## Move: Snap the Thread (Negative)
+## Move: Snap the Thread
 
 When you __have a thing that has magical sympathy to other thing__, and use a _abjuration rite_ 
 to destroy the connection between them, __roll +Hilos__. 

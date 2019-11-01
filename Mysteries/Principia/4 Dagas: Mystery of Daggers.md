@@ -12,7 +12,7 @@ They can also create pacts and contracts with that allows their will to be enfor
 
 You have an Object of Power which is typically some kind of wand, stave, staff, weapon, orb or talisman. 
 The Object must have something unique to it, and be attuned to your own personality and sensibilities. 
-You have magical sympathy towards this object and viceversa.
+You have magical sympathy towards this object and viceversa. 
 
 When your Object of Power is lost or destroyed, you can create a new one by performing a _consecration rite_ upon another object that meets the requirements. 
 

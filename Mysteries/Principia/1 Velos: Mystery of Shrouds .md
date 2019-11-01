@@ -13,13 +13,13 @@ This applies to all Mysteries, but specially to the Shrouds: once something has 
 Once an invisible thing is known, the Magus is unable to stop seeing it' realm form, even if they want to.
 
 
-## Move: Sense the Veil (Passive)
+## Move: Sense the Veil (Neutral)
 
 When __something supernatural ocurrs in your surroundings__ even if you are unable to perceive it normally, you feel it in your Soul. 
 The MC might ask you a question, and then tells you what you sense and how you sense it.
 
 
-## Move: Part the Veil (Active)
+## Move: Part the Veil (Positive)
 
 When __something is hidden, unclear or deceitful__, and you perform a _revelation rite_, __roll +Veils__. 
 __On a 7+__, the MC answers one question of your choice with a true and useful answer.
@@ -54,7 +54,7 @@ By asking how the Threshold works, the Magus can learn to use it to cross over t
 However, they cannot learn anything from what lies on the other side until they have experienced that realm or state at least once. 
 
 
-## Move: Draw the Veil (Inverted)
+## Move: Draw the Veil (Negative)
 
 When you __want to magically hide or disguise something__ by performing an _occultation rite_, __roll +Veils__. 
 __On a hit__, choose one or two options:

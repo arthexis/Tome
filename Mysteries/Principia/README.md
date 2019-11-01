@@ -13,12 +13,23 @@ As the Initiate's understanding of each Mystery in the Square increases, they wi
 
 ## Using Magic: Moves
 
-Each of the Principia empowers three distinct __Moves__. 
+Each of the Principia empowers two or three distinct __Moves__. 
 Each Move is a magical trigger or a simple cantrip, charm or trick that can be performed with only a quick rite. 
 The type of rite required depends on which Move is being used. 
 
-There is a total of twelve basic Moves that all Mages can use, without requiring additional training. 
-Not all tweleve are used frequently, less than half those Moves are used on a day to day basis by the average Initiate.
+The 10 Moves available to all Mages using only the Four Principia are:
+
+1. Unseen Sense (Velos)
+1. Revel the Truth (Velos)
+1. Craft Illusions (Velos)
+1. Augury (Copas)
+1. Empty Body (Copas)
+1. Correspondence (Hilos)
+1. Bind Together (Hilos)
+1. Snap Apart (Hilos)
+1. Power Object (Dagas)
+1. Power Word (Dagas)
+
 
 ### Rolling Dice
 

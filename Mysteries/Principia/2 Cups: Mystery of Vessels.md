@@ -36,7 +36,7 @@ The following are common enhancement rites:
 
 ## Move: Empty the Vessel (Inverted)
 
-When you attempt to __proyect yourself out of your body__, by performing a _meditation rite_, __roll +Copas. 
+When you attempt to __proyect yourself out of your body__, by performing a _meditation rite_, __roll +Copas__. 
 __On a 7+__, your Soul leaves your body as an ephemeral entity, but stays anchored to it until you return. 
 __On a 10+__, you also retain some awareness of the surroundings of your body.
 

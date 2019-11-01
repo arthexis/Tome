@@ -8,7 +8,7 @@ Any Initiate of this Mystery learns to build an Object of Power for themselves t
 They can also create pacts and contracts with that allows their will to be enforced over a longer period of time. 
 
 
-## Move: Object of Power
+## Move: Power Object
 
 You have an Object of Power which is typically some kind of wand, stave, staff, weapon, orb or talisman. 
 The Object must have something unique to it, and be attuned to your own personality and sensibilities. 
@@ -24,7 +24,7 @@ The following are common consecration rites:
 * Practice using the object over and over until you learn all its secrets.
 
 
-## Move: Wield the Dagger
+## Move: Power Word 
 
 When you __point your Object of Power at a thing and utter a request it can understand__, __roll +Dagas__. 
 __On a 10+__, it fulfills your request to the best of its ability.

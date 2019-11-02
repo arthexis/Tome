@@ -1,12 +1,14 @@
 # The Tetragram of Power
 
 Each magus must become an Initiatie in at least four basic _Principia_ of Magic. 
-These four Mysteries are also collectivelly known as the Tetragram of Power, the Squared Circle or the Sacred Cardinal:
+These four Mysteries are also collectivelly known as the Tetragram of Power, the Squared Circle or the Sacred Cardinal.
 
-- Velos: Mystery of Shrouds
-- Copas: Mystery of Vessels
-- Hilos: Mystery of Threads 
-- Dagas: Mystery of Daggers
+They are listed in order of complexity:
+
+* Velos: Mystery of Shrouds
+* Copas: Mystery of Vessels
+* Dagas: Mystery of Daggers
+* Hilos: Mystery of Threads 
 
 As the Initiate's understanding of each Mystery in the Square increases, they will become able to combine them into complex rituals to achieve more advanced Magics.
 
@@ -24,11 +26,9 @@ The 10 Moves available to all Mages using only the Four Principia are:
 1. Occultation (Velos)
 1. Mage Time (Copas)
 1. Empty Body (Copas)
-1. Correspondence (Hilos)
-1. Bind Together (Hilos)
-1. Snap Apart (Hilos)
-1. Power Object (Dagas)
+1. Consecration (Dagas)
 1. Power Word (Dagas)
+1. Binding (Hilos)
 
 
 ### Rolling Dice

@@ -27,6 +27,8 @@ __On a 10+__, you can choose two benefits at once.
 
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 
+If the rite is performed upon another body, and not the Initiate's, that other body can receive the benefits.
+
 ### Embodiment Rites
 
 The following are common embodiment rites:

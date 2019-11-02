@@ -1,5 +1,7 @@
 # Velos: The Mystery of Shrouds
 
+__Moves:__ Unseen Sense, Revelation, Occultation
+
 The Mystery of Shrouds teaches us that everything perceived is veiled by myriad illusions. 
 Indeed, our Mind's Eye has evolved not to operate on the Recondite Truth of objective reality, but upon the ilusions themselves. 
 Some of these can dispelled by the tools of science and rationality, but others cannot be dispelled without proper knowledge of the Arcane Mysteries.

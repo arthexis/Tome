@@ -27,7 +27,7 @@ This effect is always active.
 
 When you __perform a revelation rite__, __roll +Velos__. 
 __On a 7+__, the MC answers one question of your choice with a true and useful answer.
-__On a 10+__, the MC answers a second question after the first one.
+__On a 10+__, you can make one or two follow up questions.
 
 * Where is something hidden in here?
 * What is here that cannot be perceived?

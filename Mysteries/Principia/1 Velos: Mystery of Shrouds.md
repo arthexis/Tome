@@ -21,7 +21,7 @@ The MC might ask you a question, and then tells you what you sense and how you s
 
 ## Move: Reveal Truth
 
-When __something is hidden, unclear or deceitful__, and you perform a _revelation rite_, __roll +Veils__. 
+When __something is hidden, unclear or deceitful__, and you perform a _revelation rite_, __roll +Velos__. 
 __On a 7+__, the MC answers one question of your choice with a true and useful answer.
 __On a 10+__, the MC answers a second question after the first one.
 
@@ -56,7 +56,7 @@ However, they cannot learn anything from what lies on the other side until they 
 
 ## Move: Craft Illusion
 
-When you __want to magically hide or disguise something__ by performing an _occultation rite_, __roll +Veils__. 
+When you __want to magically hide or disguise something__ by performing an _occultation rite_, __roll +Velos__. 
 __On a hit__, choose one or two options:
 
 - It's appearance changes to something that is similar.
@@ -80,7 +80,7 @@ The following are common occultation rites:
 ### Handling Illusions
 
 An illusion created by this mystery effects all human senses. 
-It triggers the move __Sense the Veil__ when an Initiate is in it's presence. 
+It does trigger the __Unseen Sense__ of other Initiates when they are in its presence. 
 For everybody else, the illusion is perfectly believable and they will try to rationalize it as best as they can. 
 If believing it is impossible, possibly because it has a flaw and it has been noticed, the illusion is dispelled. 
 

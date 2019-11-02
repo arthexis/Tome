@@ -31,6 +31,8 @@ __On a 10+__, it fulfills your request to the best of its ability.
 __On a 7+__, it will only fulfill your request if you accept to form a _contract_ with it. 
 __On a miss__, something goes wrong and the entity doesn't want to cooperate, __mark experience__.
 
+The mind, program or supernatural entity in a body can be "suppresed" as a request made with this Mystery, causing the entity to enter a deep slumber.
+
 ### Offering a Sacrament
 
 An appropriate sacrament involves sacrificing something of value that another entity would appreciate as a gift. 

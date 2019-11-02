@@ -23,7 +23,7 @@ __On a 10+__, you can choose two benefits at once.
 * You can jump, throw or run a long distance in a short time, better than any athlete.
 * You become resistant to something that would harm, change or bind you.
 * You obtain a supernatural ability from a component used in the enhancement rite.
-* You perform astral projection.
+* You can perform astral projection or physically interact with ephemeral entities.
 
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 

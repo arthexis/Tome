@@ -22,21 +22,22 @@ This sympathy exists only between things that satisfy at least one of the follow
 ## Move: Correspondence
 
 When you __sense two distinct things and focus__, you can feel how strong their connection is. 
-The MC tells you if one or both of them has a _magical sympathy_ towards the other. 
+The MC tells you if one has a _magical sympathy_ towards the other and viceversa.
+You can also sense if an object is an anchor for an ephemeral entity even if you cannot perceive the entity. 
 
 
 ## Move: Bind Together
 
-When you __have a thing with magical sympathy towards another thing__, and use a _binding rite_ 
-to bring them closer, __roll +Hilos__. 
+When you __have a thing with magical sympathy towards another thing__ which may present or distant, and use a _binding rite_ to bring them even closer, __roll +Hilos__. 
 __On a 10+__, choose one or two. 
 __On a 7+__, choose only one.
 
 * You pass the sympathy to another thing used in your rite.
-* You know where to go or what to do to reach the other thing.
-* The other thing knows or feels something of your choice about this sympathy.
+* You know where to go or what to do to reach the distant thing.
+* The distant thing knows or feels something of your choice about this sympathy.
 * The next Magic you use on this thing, happens to the other thing too.
-* You glimpse the other thing as it exists now.
+* You glimpse the distant thing as it exists now.
+* If the magical sympathy is temporary, you make it into a permanent anchor.
 
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 

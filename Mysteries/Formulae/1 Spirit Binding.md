@@ -16,7 +16,9 @@ While the new entity controls the vessel, its original entity cannot exits its d
 1. If the entity doesn't have the power to animate the vessel, use __Empty Body__ on the vessel to infuse it with vitality. 
 A special component such as human blood or high voltage electricity is required.
 
-__Unraveling__: The entire effect can be unravelled by using __Snap Appart__ on the magical connection between the entity and vessel.
+### Unraveling a Spirit Binding
+
+The entire effect can be unravelled by using __Snap Appart__ on the magical connection between the entity and vessel.
 
 ## Revenants
 

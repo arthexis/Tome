@@ -1,5 +1,7 @@
 # Dagas: Mystery of Daggers
 
+__Moves:__ Consecration, Power Word
+
 The Mystery of Daggers teaches us that any entity can enforce its will upon another without direct interaction. 
 Words and tools are used to channel and amplify the will and force a desired response. 
 The end result of using this words and tools is vastly more powerful than any direct effort. 

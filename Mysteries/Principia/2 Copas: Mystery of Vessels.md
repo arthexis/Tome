@@ -53,6 +53,6 @@ When you perform Astral Projection, your Mind and Soul exit your body and behave
 Your body goes limp and enters a state of suspended animation while your Mind continues to sense the material plane around it, with your body serving as an anchor.
 Your projection can levitate and go through solid surfaces in the material plane.
 
-You can also choose to project to other nearby realms, such as the Astral planes which can be entered anywhere a Mind exists. 
+You can also choose to project to other nearby realms, such as the Astral planes which can be entered anywhere. 
 
 

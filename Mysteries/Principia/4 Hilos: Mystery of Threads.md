@@ -1,5 +1,7 @@
 # Hilos: Mystery of Threads
 
+__Moves:__ Binding
+
 The Mystery of Threads teaches us that freedom is too an illusion: everything is conected and relative to another, and the mutual bondage between all things creates the framework that allows objective reality both to stabilize and change. 
 
 An Initiate can sense the invisible sympathies connecting all things. 

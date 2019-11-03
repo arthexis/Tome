@@ -4,9 +4,18 @@ Elementals, or Elemental Spirits, are ephemeral entities embodied in natural phe
 These entities have very simple drives and agendas: they are whatever they intend and viceversa. 
 A fire wants to burn everything in its way, a wind wants to blow and knock everything over, a heavy rain wants to pour its heart out, and so on.
 
+## Spirit Magic
+
 An Initiate can use __Revelation__ to discover the spirit at the core of these natural forces and comunicate with them. 
+
 Even if the spirit hasn't been revealed, __Power Word__ can be used to try and command their behavior. 
-Some Mages use pacts to trap such spirits to power magical artifacts, such as a _Flying Staff_ or _Flaming Wand_. 
+When dealing with these spirits, they will usually agree to any pact that involves allowing them to do what they already want to do.
+
+Some Mages use pacts to trap such spirits to power magical artifacts, such as a _Flying Staff_ or _Flaming Wand_ (see the Animation Formulae for details on such constructions). 
+
+__Word of warning__: any magical object housing a spirit that is ignored for a long time will seek to get itself into the hands of someone who will want to use it, which usually has dangerous consequences.
+Responsible Mages will use __Binding__ to seal these items in secure chambers where they can't be found by the uninitiated.
+
 
 ## Artificial Spirits
 

@@ -42,10 +42,9 @@ Some Moves require dice to be rolled to determine the outcome: Roll two six-side
 
 ### Formulae
 
-On the other hand, Initiates ocasionally use more complex forms of Magic that go beyond the Four Principia. 
+Initiates can use more complex forms of Magic that go beyond the Four Principia. 
 These High Rituals or Formulae, have far-reaching effects and are capable of great miracles. 
-Complex Formulae are created by combining the Moves from the Four Principia and their rites in specific orders. 
-Some even require special components or places of power, in order to unlock their full potential. 
+Complex Formulae are created by combining the basic Moves in specific orders. 
 
 The Formulae section contains a list of the most common High Rituals that a Magus can learn. 
 If a Magus has not yet learned one of them, they can do so from a Grimoire or Mentor. 

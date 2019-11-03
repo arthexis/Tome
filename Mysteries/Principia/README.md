@@ -25,7 +25,7 @@ The 10 Moves available to all Mages using only the Four Principia are:
 1. Revelation (Velos)
 1. Occultation (Velos)
 1. Mage Time (Copas)
-1. Empty Body (Copas)
+1. Channelling (Copas)
 1. Consecration (Dagas)
 1. Power Word (Dagas)
 1. Binding (Hilos)

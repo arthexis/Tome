@@ -2,7 +2,8 @@
 
 Elementals, or Elemental Spirits, are ephemeral entities embodied in natural phenomena such as rain, lightning, fire, wind, trees, etc. 
 These entities have very simple drives and agendas: they are whatever they intend and viceversa. 
-A fire wants to burn everything in its way, a wind wants to blow and knock everything over, a heavy rain wants to pour its heart out, and so on.
+
+_For example, a fire wants to burn everything in its way, a wind wants to blow and knock everything over, a heavy rain wants to pour its heart out, and so on._
 
 ## Spirit Magic
 
@@ -16,6 +17,13 @@ Some Mages use pacts to trap such spirits to power magical artifacts, such as a 
 __Word of warning__: any magical object housing a spirit that is ignored for a long time will seek to get itself into the hands of someone who will want to use it, which usually has dangerous consequences.
 Responsible Mages will use __Binding__ to seal these items in secure chambers where they can't be found by the uninitiated.
 
+## Spirit Courts
+
+All spirits belonging to the same class of phenomena are said to belong to a Court. 
+When another entity interacts with one of these spirits in a meaningful way, the interaction can make an impression on the whole Court. 
+
+_For example, all fire spirits can remember if a Mage promised or demanded something from other fire spirits or viceversa._
+_This means that over time, a Mage can form a reputation with the Courts._
 
 ## Artificial Spirits
 

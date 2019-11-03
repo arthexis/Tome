@@ -11,14 +11,14 @@ An Initiate to this Mystery can sense when an action they are about to take is d
 ## Move: Mage Time
 
 When something in your vicinity __will hinder or endanger you__, the MC tells you what's going to happen. 
-If you don't like that result, you may perform one rite just in time to change the outcome.
+If you don't like that result you may perform a single rite, just in time to change the outcome.
 
 This effect is always active.
 
 
-## Move: Empty Body
+## Move: Channelling
 
-When you perform an __embodiment rite__ upon yourself or another subject, __roll +Copas__.
+When you perform an __channelling rite__ upon yourself or another subject, __roll +Copas__.
 __On a 7+__, gain or grant one benefit for an hour.
 __On a 10+__, you can gain or grant two benefits at once, or one benefit for one day. 
 
@@ -31,9 +31,9 @@ __On a 10+__, you can gain or grant two benefits at once, or one benefit for one
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 
 
-### Embodiment Rites
+### Channelling Rites
 
-The following are common embodiment rites:
+The following are common channelling rites:
 
 * Imbibe a substance that alters your perception or state of mind.
 * Prepare and consuming something a ceremonial meal. 

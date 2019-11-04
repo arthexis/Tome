@@ -37,6 +37,8 @@ __On a 10+__, you can make one or two follow up questions.
 
 __On a miss__, ask one anyways but something goes wrong, __mark experience__.
 
+If you ask a question not on the list, the MC can choose to answer it anyways or choose one of the options that is the closest to your question and answer that instead.
+
 ### Revelation Rites
 
 The following are common revelation rites:

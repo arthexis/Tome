@@ -1,7 +1,7 @@
 # Formulae
 
-A Formulae is a series of steps, some of them requiring the casting of specific spells and specific components, to achieve a powerful result using magic. 
-These effects can much more complex than those accomplished only with the basic spells of the Four Principia.
+A Formula is a series of steps, requiring the casting of specific spells and specific components, to achieve a powerful result. 
+These effects can be more complex than those accomplished only with the basic spells of the Four Principia.
 
 All Mages can use Formulae, even if they haven't studied them. 
 In fact, it is possible for a Mage to rediscover a Formulae on their own, not knowing it has already been invented.

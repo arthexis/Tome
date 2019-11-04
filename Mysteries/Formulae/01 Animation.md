@@ -1,4 +1,4 @@
-# Formulae: Animation
+# Animation
 
 The Initiate binds an ephemeral entity to a material vessel, animating it.
 

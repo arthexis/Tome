@@ -53,8 +53,8 @@ Binding a spirit to create a magical item works better when the item has been cr
 The more exquisite and personalized the item is, the better. 
 
 * If it took hours to craft, take +1 to the roll.
-* If it took days to craft, take +2 to the roll.
-* If it took months to craft, take +3 to the roll.
+* If it took days and rare materials to craft, take +2 to the roll.
+* If it took months and unique materials to craft, take +3 to the roll.
 
 
 ## Revenants

@@ -22,7 +22,7 @@ This role is made using the lowest Principia from those required by the Formulae
 
 ## Untrained Formulae
 
-These can be used by reading them off a Grimoire, or being instructed in their use by a mentor. 
+Formulae can be used by reading them off a Grimoire, or being instructed in their use by a mentor. 
 Any Mage that is trained in a Formulae can teach it to others. 
 However, this is often not done for free: most mentors demand something in return.
 

@@ -29,3 +29,11 @@ When seeing the future, the Initiate contemplates the most possible future based
 If things change significantly in the present, the next time the subject is scryed upon may present different results. 
 Sometimes, very minor things can produce mayor changes, which keeps some events in the future unpredictable, even for a Mage. 
 
+## Altered Pasts
+
+When using __Occultation__ to hide or craft an illusion over an event in the past, the present does not change, but the subject of the spell has their perception changed. 
+Essentially, it alters or obfuscates their memories of the event.
+Like any other illusion, if the subject finds their new memories to be impossible, the illusion is dispelled. 
+
+
+

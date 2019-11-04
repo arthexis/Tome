@@ -12,9 +12,7 @@ Elemental energy cand be obtained from a magical or natural source such as heat,
 3. Cast __Binding__ to remove any impure sympathies that the final substance shouldn't have. 
 As you do so, sift, blend, stirr and mold your subject to the desired shape.
 
-4. Instead of working on the subject directly, the Mage can produce an alchemical elixir that will activate the transformation when consumed by another subject.
-In order for the elixir to take effect, __Channelling__ must be used on the final subject as the elixir is consumed.
-Other spells and components can be added to make an even more complex or potent elixir. 
+4. Instead of working on the subject directly, the Mage can produce an alchemical elixir that will activate the transformation when consumed by another subject. The elixir holds its own power, so __Channelling__ is not needed to consume it.
 
 The result will be an object made out of single substance. 
 However, the substance doesn't need to be a single element, it can be a complex organic or psychic substance. 

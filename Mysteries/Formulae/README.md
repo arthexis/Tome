@@ -21,7 +21,7 @@ This role is made using the lowest Principia from those required by the Formulae
 
 These can be used by reading them off a Grimoire, or being instructed in their use by a mentor. 
 Any Mage that is trained in a Formulae can teach it to others. 
-However, this is often not done for free: most mentors demand something valuable in return.
+However, this is often not done for free: most mentors demand something in return.
 
 Using a Formulae doesn't mean you are __trained__ on it, you will require a lot of practice before that.
 This is represented by __spending an advancement__.

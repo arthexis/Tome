@@ -1,6 +1,6 @@
 # Dagas: Mystery of Daggers
 
-__Moves:__ Consecration, Power Word
+__Traits:__ Consecration. __Spell:__ Power Word.
 
 The Mystery of Daggers teaches us that any entity can enforce its will upon another without direct interaction. 
 Words and tools are used to channel and amplify the will and force a desired response. 
@@ -10,7 +10,7 @@ Any Initiate of this Mystery learns to build an Object of Power for themselves t
 They can also create pacts and contracts with that allows their will to be enforced over a longer period of time. 
 
 
-## Move: Consecration
+## Trait: Consecration
 
 You have an _Object of Power_ which is typically some kind of wand, stave, staff, weapon, orb or talisman. 
 The Object must have something unique to it, and be attuned to your own personality and sensibilities. 
@@ -27,7 +27,7 @@ The following are common consecration rites:
 * Practice using the object over and over until you learn all its secrets.
 
 
-## Move: Power Word 
+## Spell: Power Word 
 
 When you __point your Object of Power at a subject, or offer a sacrament, and utter a request__, __roll +Dagas__. 
 __On a 10+__, the subject fulfills your request to the best of its ability.

@@ -20,7 +20,7 @@ Each of the Principia enables the use one or more basic _spells_ and _traits_.
 __Traits__ are innate magical properties that the Initiate benefits from.
 __Spells__ are flexible magical effects that can be triggered by performing a rite. 
 
-The 8 spells available to all Mages using only the Four Principia are:
+The 5 basic spells available to all Mages using only the Four Principia individually are:
 
 1. Revelation (Velos)
 1. Occultation (Velos)

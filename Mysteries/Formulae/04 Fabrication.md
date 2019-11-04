@@ -11,10 +11,12 @@ This effect ends automatically when the fabrication is complete.
 1. Assemble the materials and cast __Binding__ on them, increasing the sympathy between the components to keep them magically together. 
 
 1. Cast __Occultation__ to wrap the resulting object or device, so it appears and behaves normally. 
+You must choose a specific component to anchor the spell, this element is known as the __linchpin__.
 
+When completed, the fabricated object will appear and behave exactly as the desired device.
+If your illusion has a flaw, it is always the same: the linchpin cannot be disguised.
 
-When completed, the fabricated object will appear and behave exactly as the desired device. 
-If the object or the illusion that wraps it are destroyed, the object will crumble down into the original materials used by the Initiate. 
+If the object or the illusion that wraps it are destroyed, or if the linchpin is pulled out or damaged, the object will crumble down into the original materials used by the Initiate. 
 
 
 ## Simulacra

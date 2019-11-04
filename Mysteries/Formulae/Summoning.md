@@ -27,3 +27,16 @@ Their unresolved businesses determine what objects, places or persons can become
 In addition to those, a ghost continues to have symapathy with its mortal remains.
 
 If the soul has already departed for the beyond, it can be summoned only at a Treshold to the Underworld.
+
+## Goetic Summoning
+
+The human mind contains countless, sometimes contradicting, threads of thoughts and points of view.
+A person may have an obsession, passion or vice that they revile, and yet cannot stop indulging. 
+An Initiate can pinpoint one aspect of their own mind and summon it, creating a _Goetic Daemon_. 
+
+The process is similar to a regular summoning, but the subject is yourself and you must change the first step use __Channelling__ to allow yourself to interact with your Goetias.
+
+Once a Goetia has been summoned, the Mage has the posibility of defeating or negotiating with it. 
+This can allow the Mage to change themselves or control those aspects of their personality. 
+These Daemons can also be used as entities to power items using __Animation__ magic.
+

@@ -2,7 +2,7 @@
 
 All Mages can use Formulae, even if they haven't studied them. 
 In fact, it is possible for a Mage to rediscover a Formulae on their own, not knowing it has already been invented.
-However, there is a benefit to practicing them rather than improvising.
+However, there is a benefit to practicing.
 
 ## Trained Formulae
 

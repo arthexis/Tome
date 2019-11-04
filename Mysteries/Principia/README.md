@@ -15,19 +15,24 @@ As the Initiate's understanding of each Mystery in the Square increases, they wi
 
 ## Using Magic: Spells
 
-Each of the Principia enables the use one or more basic _spells_. 
-Each spell is either a continuous magical effect, or a magical effect that can be triggered by performing a rite. 
+Each of the Principia enables the use one or more basic _spells_ and _traits_. 
 
-The 8 Spells available to all Mages using only the Four Principia are:
+__Traits__ are innate magical properties that the Initiate benefits from.
+__Spells__ are flexible magical effects that can be triggered by performing a rite. 
 
-1. Unseen Sense (Velos)
+The 8 spells available to all Mages using only the Four Principia are:
+
 1. Revelation (Velos)
 1. Occultation (Velos)
-1. Mage Time (Copas)
 1. Channelling (Copas)
-1. Consecration (Dagas)
 1. Power Word (Dagas)
 1. Binding (Hilos)
+
+The 3 traits all Mages obtain from the Principia are:
+
+1. Unseen Sense (Velos)
+1. Mage Time (Copas)
+1. Consecration (Dagas)
 
 
 ### Rolling Dice

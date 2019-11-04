@@ -26,7 +26,7 @@ __On a 10+__, you can gain or grant two benefits at once, or one benefit for one
 * Become able to jump, throw or run a long distance in a short time, better than any athlete.
 * Become resistant to something that would harm, change or bind the subject.
 * Obtain a supernatural ability from a component used in the enhancement rite.
-* Perform astral projection or physically interact with ephemeral entities.
+* Perform astral projection or interact with ephemeral entities.
 
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 

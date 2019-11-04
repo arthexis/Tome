@@ -32,11 +32,12 @@ When this elixir is consumed, the victim turns to stone over the course of a min
 Traditionally, the resulting material is granite or limestone and the resulting object shows no signs of being anything other than a statue.
 If the effect is somehow reversed, the subject can be revived to a perfectly normal state, no matter how much time passed.
 
-### Immortality Elixir
+### Immortality Blood
 
 The special component required by this elixir is vampire's blood, though some Mages have managed to replicate the effect by using ground leeches, mercury and fresh menses. 
 Upon imbibing the elixir, the subject's flesh becomes undead, but retains their mind and soul. 
-In this state, they don't need to breathe, drink or feed on anything except blood (though unlike a real vampire, they don't need to consume blood to sustain their powers, they can still use magic).
-After 24 hours, the effect reverts unless another dose o the elixir is consumed. 
+After 24 hours, the effect reverts unless another dose of the elixir is consumed. 
 
+In this state, they don't need to breathe, drink or feed on anything except blood (though unlike a real vampire, they don't need to consume blood to sustain their powers, they can still use magic).
+While the sun does not burn a Mage in this state, its light is blinding and its warmth makes the body feel lethargic.
 

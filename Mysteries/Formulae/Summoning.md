@@ -14,7 +14,7 @@ Use __Binding__ to affect the entity with your next magic.
 Because the entity is not present yet, a sacrament _must_ be used.
 
 1. If you used a magic circle, use __Binding__ as it appears to Seal it inside the circle.
-Otherwise, use this Move to give it an anchor.
+Otherwise, use __Binding__ to give it an anchor. 
 
 The entity that has been summoned does not obey the Mage beyond having to stay in there with them or leaving when dismissed.
 If the Mage wants to request its help, or compel it to do something, they can negotiate or use __Power Word__.

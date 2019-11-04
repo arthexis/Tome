@@ -35,6 +35,18 @@ Flying brooms, staves and capes are common examples of these creations.
 Another common creation used as a weapon: by trapping an elemental in some kind of weapon or wand, often into an Object of Power, the resulting object can be used to conjure elemental energy as an attack. 
 The type of energy conjured depends on the spirit bound within. 
 
+### Rank and Charges
+
+The Rank of the elemental powering a magical object determines how often it can be used, as each activation consumes part of the essence inside the trapped spirit. 
+
+* Rank 1 items can be activated once per week.
+* Rank 2 items can be activated once per day.
+* Rank 3 items can be activated once per hour.
+* Rank 4 items can be activated once per minute.
+* Rank 5 items can be activated any time.
+
+Naturally, highly Ranked spirits are extremely difficult to bind in this manner.
+
 
 ## Revenants
 

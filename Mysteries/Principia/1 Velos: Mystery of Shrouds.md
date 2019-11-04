@@ -1,6 +1,6 @@
 # Velos: The Mystery of Shrouds
 
-__Moves:__ Unseen Sense, Revelation, Occultation
+__Spells:__ Unseen Sense, Revelation, Occultation
 
 The Mystery of Shrouds teaches us that everything perceived is veiled by myriad illusions. 
 Indeed, our Mind's Eye has evolved not to operate on the Recondite Truth of objective reality, but upon the ilusions themselves. 
@@ -15,7 +15,7 @@ This applies to all Mysteries, but specially to the Shrouds: once something has 
 Once an invisible thing is known, the Magus is unable to stop seeing it' realm form, even if they want to.
 
 
-## Move: Unseen Sense
+## Spell: Unseen Sense
 
 When __the supernatural is afoot__, even if you are unable to perceive it normally, your Soul feels it. 
 The MC might ask you a question that you must answer truthfully, and then tells you what you sense and how.
@@ -23,7 +23,7 @@ The MC might ask you a question that you must answer truthfully, and then tells 
 This effect is always active.
 
 
-## Move: Revelation
+## Spell: Revelation
 
 When you __perform a revelation rite__, __roll +Velos__. 
 __On a 7+__, the MC answers one question of your choice with a true and useful answer.
@@ -60,7 +60,7 @@ By asking how the Threshold works, the Magus can learn to use it to cross over t
 However, they cannot learn anything from what lies on the other side until they have experienced that realm or state at least once. 
 
 
-## Move: Occultation
+## Spell: Occultation
 
 When you __performing an occultation rite__ on yourself or another subjet, __roll +Velos__. 
 __On a hit__, choose one or two options:

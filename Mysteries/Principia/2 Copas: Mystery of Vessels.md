@@ -1,6 +1,6 @@
 # Copas: Mystery of Vessels
 
-__Moves:__ Mage Time, Empty Body
+__Trait:__ Mage Time. __Spell:__ Channelling
 
 The Mystery of Vessels teaches us that everything is conduit and container for the unseen forces of the universe. 
 Living things, machines, magical constructs, everything is powered, directed and animated by invisible energies that are unable to exist by themselves without these Vessels that hold them.
@@ -8,7 +8,7 @@ Living things, machines, magical constructs, everything is powered, directed and
 An Initiate to this Mystery can sense when an action they are about to take is dangerous, hurtful or impossible in their current state. With the appropriate rite, they can empower and attune their body to make the task possible and safe, or force their own Soul to briefly leave their body to explore the Mysteries unhindered.
 
 
-## Move: Mage Time
+## Trait: Mage Time
 
 When something in your vicinity __will hinder or endanger you__, the MC tells you what's going to happen. 
 If you don't like that result you may perform a single rite, just in time to change the outcome.
@@ -16,7 +16,7 @@ If you don't like that result you may perform a single rite, just in time to cha
 This effect is always active.
 
 
-## Move: Channelling
+## Spell: Channelling
 
 When you perform an __channelling rite__ upon yourself or another subject, __roll +Copas__.
 __On a 7+__, gain or grant one benefit for an hour.

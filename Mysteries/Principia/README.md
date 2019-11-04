@@ -49,7 +49,7 @@ When something says that you __take +X__ in a roll, it means you add X to the ro
 ### Formulae
 
 Initiates can use more complex spells that go beyond the Four Principia. 
-These High Rituals or Formulae, have far-reaching effects and are capable of great miracles. 
+These High Rituals or __Formulae__, have far-reaching effects and are capable of great miracles. 
 Complex Formulae are created by combining the basic Moves in specific orders. 
 
 The Formulae section contains a list of the most common High Rituals that a Magus can learn. 

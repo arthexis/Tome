@@ -44,6 +44,10 @@ __Wandering Doors:__ Sometimes, a door found inside the Labyrnth is a little loo
 If this door is carefully removed from the Labyrinth, brought out to the material plane, and then installed on a new frame, it will still lead back to its original exit in the material plane when opened. 
 The door loses its magic if damaged or if its sympathy to the Labyrinth is removed.
 
+__Losing Berries:__ These berries can be collected from the areas of the Labyrinth containing hedges.
+Any person consuming one will have their hunger and thirst sated for a few hours, but will also lose their sense of direction during that time. 
+While afflicted in this manner, they have extreme difficulty finding their way anywhere without getting lost. 
+
 
 ## Lore
 

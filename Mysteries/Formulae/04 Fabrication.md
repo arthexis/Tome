@@ -23,6 +23,9 @@ Living creatures created with this Formulae are called _Simulacra_.
 These false creatures behave as a typical member of their species, having all the expected instincts and behaviors, except they don't actually eat, drink or reproduce. 
 They don't have a complex mind either, but one can be implanted by casting __Animation__ on them.
 
+Even without a mind, Simulacra can be issued simple commands, making them useful as spies. 
+When you use __Binding__ to scry upon a simulacrum you created, __take +1 to the roll__.
+
 ## Wonder Gadgets
 
 By studying two or more distinct objects or devices as the first step of this Formulae, and combining their functions into a single resulting item, a Wonder Gadget can be created. 

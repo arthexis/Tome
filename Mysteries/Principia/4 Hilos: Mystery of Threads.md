@@ -1,6 +1,6 @@
 # Hilos: Mystery of Threads
 
-__Moves:__ Binding
+__Spell:__ Binding.
 
 The Mystery of Threads teaches us that freedom is too an illusion: everything is conected and relative to another, and the mutual bondage between all things creates the framework that allows objective reality both to stabilize and change. 
 
@@ -18,7 +18,7 @@ This sympathy exists between things that satisfy at least one of the following:
 * They are bound together by a supernatural power.
 
 
-## Move: Binding
+## Spell: Binding
 
 When you perform a __binding rite__ on yourself or another subject, __roll +Hilos__. 
 __On a 7+__, choose one.

@@ -4,7 +4,7 @@ A Formula is a series of steps, requiring the casting of specific spells and spe
 These effects can be more complex than those accomplished only with the basic spells of the Four Principia.
 
 All Mages can use Formulae, even if they haven't studied them. 
-In fact, it is possible for a Mage to rediscover a Formulae on their own, not knowing it has already been invented.
+In fact, it is possible for an Initiate to rediscover a Formulae on their own, not knowing it has already been invented.
 However, there is a benefit to practicing.
 
 ## Trained Formulae

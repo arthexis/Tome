@@ -1,6 +1,6 @@
 # Velos: The Mystery of Shrouds
 
-__Spells:__ Unseen Sense, Revelation, Occultation
+__Trait__: Unseen Sense. __Spells:__ Revelation, Occultation
 
 The Mystery of Shrouds teaches us that everything perceived is veiled by myriad illusions. 
 Indeed, our Mind's Eye has evolved not to operate on the Recondite Truth of objective reality, but upon the ilusions themselves. 
@@ -15,7 +15,7 @@ This applies to all Mysteries, but specially to the Shrouds: once something has 
 Once an invisible thing is known, the Magus is unable to stop seeing it' realm form, even if they want to.
 
 
-## Spell: Unseen Sense
+## Trait: Unseen Sense
 
 When __the supernatural is afoot__, even if you are unable to perceive it normally, your Soul feels it. 
 The MC might ask you a question that you must answer truthfully, and then tells you what you sense and how.

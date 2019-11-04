@@ -37,11 +37,12 @@ The 3 traits all Mages obtain from the Principia are:
 
 ### Rolling Dice
 
-Spells require dice to be rolled to determine the outcome: Roll two six-sided dice and add your score in the Principia being used.
+Many spells require dice to be rolled to determine the outcome.
+If required, roll two six-sided dice and add your score in the Principia being used.
 
-* A result of 7 or more is a hit: the spell works as expected. 
-* A result of 10 or more gains you an extra benefit, on top of the basic hit.
-* A result of 6 or less is a miss: something goes wrong and your spell is Corrupted, the MC tells you what happens.
+* On 7 or more is a hit: the spell works as expected. 
+* On 10 or more you gain an extra benefit, on top of the basic hit.
+* On 6 or less is a miss: something goes wrong, the MC tells you what.
 
 When something says that you __take +X__ in a roll, it means you add X to the roll before determining the result.
 

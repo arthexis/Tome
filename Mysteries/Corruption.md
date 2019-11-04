@@ -21,6 +21,10 @@ The MC decides what the source of this resonance is.
 
 ### Excesive Force
 
-The result of your magic comes stronger than intended. 
-The MC chooses some effect of the 
+The results of your magic come stronger than intended. 
+The MC chooses some aspect of the spell and intensifies it beyond the Mage's expectations.
+
+_For example, a spell intended to put one person to sleep sends them into a coma, a punch powered by magic ends up killing the victim rather than just incapacitating them, a small fire meant to burn a book extends to an entire room, etc._
+
+
 

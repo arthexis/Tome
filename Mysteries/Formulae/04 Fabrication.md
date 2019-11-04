@@ -22,3 +22,12 @@ If the object or the illusion that wraps it are destroyed, the object will crumb
 Living creatures created with this Formulae are called _Simulacra_. 
 These false creatures behave as a typical member of their species, having all the expected instincts and behaviors, except they don't actually eat, drink or reproduce. 
 They don't have a complex mind either, but one can be implanted by casting __Animation__ on them.
+
+## Wonder Gadgets
+
+By studying two or more distinct objects or devices as the first step of this Formulae, and combining their functions into a single resulting item, a Wonder Gadget can be created. 
+These items have the appearance and size of only one of the objects, but performs the functions of all of them, or may be able to switch across forms.
+
+_For example, blowtorch and a freezer could be combined to create a device that outputs intense heat or cold._ 
+_A car and a boat could be combined into a vehicle that can turn into either form at the push of a button._
+

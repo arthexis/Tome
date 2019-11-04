@@ -1,20 +1,24 @@
 # Fabrication
 
-The Initiate can quickly assemble or modify devices or objects of all kinds, using basic components or by dissasembling similar objects.
+The Initiate creates a complex device or creature out of simple materials.
+This Formulae can only craft devices or creatures that could exist normally, with no supernatural powers of their own. 
 
-1. The subject of this rite is either an existing object or device, or most of the components that would make one up. 
-Start by casting __Revelation__ on the subject to perfectly understand how it works.
+1. Cast __Revelation__ on an object or creature that you want to replicate, to understand how it works. 
 
-1. Use __Channelling__ to give yourself the skill to assemble and/or dissasemble the object quickly. 
-Thanks to the Revelation, you can perfectly tune yourself to this task.
+1. Cast __Channelling__ to give yourself the skill to assemble and dissasemble this specific structure quickly and precisely.
+This effect ends automatically when the fabrication is complete.
 
-1. As you perform the task, use __Binding__ to increase the sympathy between all the components.
-This speeds up the process and ensures the final object will work flawlessly on the first try.
+1. Assemble the materials and cast __Binding__, increasing the sympathy between the components to keep them magically together. 
 
-The magic of this rite automatically adjusts or transforms the components in minor ways as required to make them fit. 
-No special tools are required either: the Initiate can perform the task with their bare hands. 
+1. Cast __Occultation__ to wrap the resulting object or device, so it appears and behaves normally. 
 
-Simple objects and devices can be built in seconds. 
-Large vehicles or machines may be build over the course of a day. 
-This Formulae is useful for constructing vessels that can be used for __Animation__.
 
+When completed, the fabricated object will appear and behave exactly as the desired device. 
+If the object or the illusion that wraps it are destroyed, the object will crumble down into the original materials used by the Initiate. 
+
+
+## Simulacra
+
+Living creatures created with this Formulae are called _Simulacra_. 
+These false creatures behave as a typical member of their species, having all the expected instincts and behaviors, except they don't actually eat, drink or reproduce. 
+They don't have a complex mind either, but one can be implanted by casting __Animation__ on them.

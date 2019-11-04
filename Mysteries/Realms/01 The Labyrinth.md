@@ -46,7 +46,7 @@ The door loses its magic if damaged or if its sympathy to the Labyrinth is remov
 
 __Losing Berries:__ These berries can be collected from the areas of the Labyrinth containing hedges.
 Any person consuming one will have their hunger and thirst sated for a few hours, but will also lose their sense of direction during that time. 
-While afflicted in this manner, they have extreme difficulty finding their way anywhere without getting lost. 
+While afflicted in this manner, they have extreme difficulty finding their way anywhere without getting lost, even if given precise directions or using a GPS device. 
 
 
 ## Lore

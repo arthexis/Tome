@@ -8,7 +8,7 @@ This Formulae can only craft devices or creatures that could exist normally, wit
 1. Cast __Channelling__ to give yourself the skill to assemble and dissasemble this specific structure quickly and precisely.
 This effect ends automatically when the fabrication is complete.
 
-1. Assemble the materials and cast __Binding__, increasing the sympathy between the components to keep them magically together. 
+1. Assemble the materials and cast __Binding__ on them, increasing the sympathy between the components to keep them magically together. 
 
 1. Cast __Occultation__ to wrap the resulting object or device, so it appears and behaves normally. 
 

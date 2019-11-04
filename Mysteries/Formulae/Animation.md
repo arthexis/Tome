@@ -47,6 +47,15 @@ The Rank of the elemental powering a magical object determines how often it can 
 
 Naturally, highly Ranked spirits are extremely difficult to bind in this manner.
 
+### Exquisite Crafting
+
+Binding a spirit to create a magical item works better when the item has been crafted for that specific purpose, by the hand of the Mage themselves. 
+The more exquisite and personalized the item is, the better. 
+
+* If it took hours to craft, take +1 to the roll.
+* If it took days to craft, take +2 to the roll.
+* If it took months to craft, take +3 to the roll.
+
 
 ## Revenants
 

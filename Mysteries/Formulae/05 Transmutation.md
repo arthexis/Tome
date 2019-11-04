@@ -26,7 +26,9 @@ One of the benefits of Alchemical Elixirs is that they are essentially a bottled
 After being created, elixirs have a short shelf life of about one day. 
 Their life can be extended by storing the potion in a container enchanted with a __Binding__ spell to seal its magic. 
 
-__Flesh to Stone:__ When this elixir is consumed, the victim turns to stone over the course of a minute. 
+### Flesh to Stone
+
+When this elixir is consumed, the victim turns to stone over the course of a minute. 
 Traditionally, the resulting material is granite or limestone and the resulting object shows no signs of being anything other than a statue.
 If the effect is somehow reversed, the subject can be revived to a perfectly normal state, no matter how much time passed.
 

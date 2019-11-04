@@ -37,9 +37,9 @@ __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 The following are common binding rites:
 
 * Burn or break the subject, scattering the remains to the wind.
-* Repeatedly Tie, weave, braid, mix or knot a thread around the subject.
-* Inscribe the subject with magical symbols.
-* Place the thing in bondage or enclose it with magical geometry.
+* Tie, weave, braid, mix, stitch or knot the subject.
+* Inscribe the subject with drawings or runes.
+* Place the subject in bondage or enclose it with geometry.
 * Utter the sacred name that defines the other thing.
 
 ### Breaking Sympathy

@@ -38,6 +38,12 @@ If they are unable to find their way out after some time, the Labyrinth starts t
 These Lost souls are unable to return to their human forms, and cannot survive outside the Labyrinth without an anchor. 
 Some of these Lost guide other visitors to save them from their fate, while others are eager to create more Lost just to have some company in the lonely depths of the Labyrinth.
 
+## Relics
+
+__Wandering Doors:__ Sometimes, a door found inside the Labyrnth is a little loose and its possible to dettach it from its frame without damaging it. 
+If this door is carefully removed from the Labyrinth, brought out to the material plane, and then installed on a new frame, it will still lead back to its original exit in the material plane when opened. 
+The door loses its magic if damaged or if its sympathy to the Labyrinth is removed.
+
 
 ## Lore
 

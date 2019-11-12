@@ -19,15 +19,14 @@ Once an invisible thing is known, the Magus is unable to stop seeing its realm f
 
 When __the supernatural is afoot__, even if you are unable to perceive it normally, your Soul feels it. 
 The MC might ask you a question that you must answer truthfully, and then tells you what you sense and how.
-
-This effect is always active.
+If you have encountered this phenomenon in the past, the MC tells you that as well. 
 
 
 ## Spell: Revelation
 
 When you __perform a revelation rite__, __roll +Velos__. 
 __On a 7+__, the MC answers one question of your choice with a true and useful answer.
-__On a 10+__, you can make one or two follow up questions.
+__On a 10+__, you can make one or two follow up questions, or ask to receive a vision. 
 
 * Where is something hidden in here?
 * What is here that cannot be perceived?
@@ -47,6 +46,12 @@ The following are common revelation rites:
 * Praying to a higher power for insight or wisdom.
 * Interpreting signs and omens in natural phenomena. 
 * Consulting the results of a game of chance.
+
+### Mystical Visions
+
+Sometimes using the Veils simply reveals discrete bits of information, but others, the mind of the Initiate is send through a complex vision: a short scene in which the Mage experiences the hidden truths. With experience or luck, a Mage learns to trigger these visions almost at will. At any time, the Mage can snap out of the vision if desired. 
+
+On the other hand, visions can also be accidentally triggered by Corruption. When this happens, the Mage cannot control the vision or snap out of it without outside intervention. 
 
 ### Revealing Ephemerals
 
@@ -100,3 +105,14 @@ These are some common illusion flaws:
 * The movements of the illusion appear glitchy or unnatural.
 
 When an illusion has a flaw and __Revelation__ is used on it, __take +1__ on that roll.
+
+## Usage in Formulae
+
+### Velos to Copas
+
+Copas 
+
+
+
+
+

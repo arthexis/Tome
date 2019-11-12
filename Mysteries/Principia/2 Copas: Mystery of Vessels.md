@@ -65,6 +65,9 @@ When a creature does something to accumulate a powerful supernatural trait, thei
 This condition can be spread through dark rites and curses, and forces the subject to constantly consume the lifeforce of other still-living creatures of their kind, to sustain themselves and their powers. 
 There are many kinds and strains of vampires: The subject may become stronger, smarter, more beautiful, psychic or even immortal.
 
+The Mystery of Veils cannot heal a vessel broken in this manner to remove vampirism.
+Furthermore, attempts to use the Mystery upon vampiric vessels automatically results in a Corrupted spell.
+
 ### Healing Factors
 
 This Mystery can help a subject heald much faster from a wound, as well as provide medical training to an Initiate.

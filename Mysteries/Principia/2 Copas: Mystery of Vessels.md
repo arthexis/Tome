@@ -2,8 +2,9 @@
 
 __Trait:__ Mage Time. __Spell:__ Channelling
 
-The Mystery of Vessels teaches us that everything is conduit and container for the unseen forces of the universe. 
+The Mystery of Vessels teaches us that everything is conduit and container for the unseen forces of the universe.
 Living things, machines, magical constructs, everything is powered, directed and animated by invisible energies that are unable to exist by themselves without these Vessels or _Copas_ that hold them.
+Regardless of what exactly it is that animates a vessel, the term lifeforce is used to refer to it.
 
 An Initiate to this Mystery can sense when an action they are about to take is dangerous, hurtful or impossible in their current state. With the appropriate rite, they can empower and attune their body to make the task possible and safe, or force their own Soul to briefly leave their body to explore the Mysteries unhindered.
 
@@ -12,8 +13,6 @@ An Initiate to this Mystery can sense when an action they are about to take is d
 
 When something in your vicinity __will hinder or endanger you__, the MC tells you what's going to happen. 
 If you don't like that result you may perform a single rite, just in time to change the outcome.
-
-This effect is always active.
 
 
 ## Spell: Channelling
@@ -29,6 +28,8 @@ __On a 10+__, you can gain or grant two benefits at once, or one benefit for one
 * Perform astral projection or interact with ephemeral entities.
 
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
+
+Whenever this mystery grants skills, traits or properties, the subject that receives controls them.
 
 
 ### Channelling Rites
@@ -56,5 +57,20 @@ Your body goes limp and enters a state of suspended animation while your Mind co
 Your projection can levitate and go through solid surfaces in the material plane.
 
 You can also choose to project to other nearby realms, such as the Astral planes which can be entered anywhere. 
+
+### Magical Vampirism
+
+When a creature does something to accumulate a powerful supernatural trait, their vessel may become cracked and leak lifeforce. 
+This condition can be spread through dark rites and curses, and forces the subject to constantly consume the lifeforce of other still-living creatures of their kind, to sustain themselves and their powers. 
+There are many kinds and strains of vampires: The subject may become stronger, smarter, more beautiful, psychic or even immortal.
+
+### Healing Factors
+
+This Mystery can help a subject heald much faster from a wound, as well as provide medical training to an Initiate.
+However, the magic of the Vessels cannot outright heal unless a source of lifeforce is spent in the spell. 
+In that case, the Mystery can channel the existing lifeforce into the vessel; otherwise lifeforce cannot be created out of nothing.
+
+
+
 
 

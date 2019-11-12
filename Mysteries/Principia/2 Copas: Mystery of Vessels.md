@@ -59,7 +59,7 @@ Your projection can levitate and go through solid surfaces in the material plane
 
 You can also choose to project to other nearby realms, such as the Astral planes which can be entered anywhere. 
 
-### Magical Vampirism
+### Magic and Vampirism
 
 When a creature does something to accumulate a powerful supernatural trait, their vessel may become cracked and leak lifeforce. 
 This condition can be spread through dark rites and curses, and forces the subject to constantly consume the lifeforce of other still-living creatures of their kind, to sustain themselves and their powers. 

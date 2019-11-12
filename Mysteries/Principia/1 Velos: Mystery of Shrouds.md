@@ -12,7 +12,7 @@ With the proper rite, the Shrouds can be removed... or new Veils laid down to ob
 ### Mysteries cannot be Unseen
 
 This applies to all Mysteries, but specially to the Shrouds: once something has been revealed, the Initiate cannot help but see the truth from then on, a magus never falls for the same illusion twice. 
-Once an invisible thing is known, the Magus is unable to stop seeing it' realm form, even if they want to.
+Once an invisible thing is known, the Magus is unable to stop seeing its realm form, even if they want to.
 
 
 ## Trait: Unseen Sense

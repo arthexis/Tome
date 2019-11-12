@@ -17,7 +17,6 @@ The Object must have something unique to it, and be attuned to your own personal
 You have magical sympathy towards the Object and viceversa. 
 
 When you perform a __consecration rite__ upon an object that meets the requirements, it becomes your Object of Power.
-
 Consecration rites can also be used upon places of power to gain access to their supernatural properties. 
 
 

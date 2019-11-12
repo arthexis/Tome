@@ -105,14 +105,3 @@ These are some common illusion flaws:
 * The movements of the illusion appear glitchy or unnatural.
 
 When an illusion has a flaw and __Revelation__ is used on it, __take +1__ on that roll.
-
-## Usage in Formulae
-
-### Velos to Copas
-
-Copas 
-
-
-
-
-

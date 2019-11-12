@@ -28,3 +28,9 @@ However, this is often not done for free: most mentors demand something in retur
 
 Using a Formulae doesn't mean you are __trained__ on it, you will require a lot of practice before that.
 This is represented by __spending an advancement__.
+
+
+## Formulae Creation
+
+The Formulae listed in this section is just an example of what can be created, but the players should work with ther MCs to create new Formulae if the existing ones don't cover their needs. 
+

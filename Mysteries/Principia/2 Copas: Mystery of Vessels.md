@@ -26,6 +26,7 @@ __On a 10+__, you can gain or grant two benefits at once, or one benefit for one
 * Become resistant to something that would harm, change or bind the subject.
 * Obtain a supernatural ability from a component used in the enhancement rite.
 * Perform astral projection or interact with ephemeral entities.
+* Improve the healing factor, or transfer lifeforce into a subject.
 
 __On a miss__, choose one anyways but something goes wrong, __mark experience__.
 
@@ -67,8 +68,11 @@ There are many kinds and strains of vampires: The subject may become stronger, s
 ### Healing Factors
 
 This Mystery can help a subject heald much faster from a wound, as well as provide medical training to an Initiate.
-However, the magic of the Vessels cannot outright heal unless a source of lifeforce is spent in the spell. 
-In that case, the Mystery can channel the existing lifeforce into the vessel; otherwise lifeforce cannot be created out of nothing.
+This can raise the rate of healing by a factor, greatly reducing healing time. 
+Many non-critical wounds can be healed this way over a single day of rest. 
+
+However, the magic of the Vessels cannot instantly heal, or heal wounds and diseases that would just get worse over time, unless a source of equivalent lifeforce is spent in the spell. 
+In that case, the Mystery can channel the existing lifeforce into the vessel to perform miraclous healing.
 
 
 

@@ -49,9 +49,13 @@ The following are common revelation rites:
 
 ### Mystical Visions
 
-Sometimes using the Veils simply reveals discrete bits of information, but others, the mind of the Initiate is send through a complex vision: a short scene in which the Mage experiences the hidden truths. With experience or luck, a Mage learns to trigger these visions almost at will. At any time, the Mage can snap out of the vision if desired. 
+Sometimes using the Veils simply reveals discrete bits of information. 
+Other times, the mind of the Initiate is sent through a complex vision: a short scene in which the Mage experiences the truth firsthand. 
+With experience or luck, a Mage learns to trigger these visions almost at will. 
+At any time, the Mage can snap out of the vision if desired. 
 
-On the other hand, visions can also be accidentally triggered by Corruption. When this happens, the Mage cannot control the vision or snap out of it without outside intervention. 
+On the other hand, visions can also be accidentally triggered by Corruption. 
+When this happens, the Mage cannot control the vision or snap out of it without outside intervention. 
 
 ### Revealing Ephemerals
 

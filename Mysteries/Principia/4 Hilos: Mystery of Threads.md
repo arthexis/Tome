@@ -5,6 +5,7 @@ __Spell:__ Binding.
 The Mystery of Threads teaches us that freedom is too an illusion: everything is conected and relative to another, and the mutual bondage between all things creates the framework that allows objective reality both to stabilize and change. 
 
 An Initiate can sense the invisible sympathies connecting all things. 
+These sympathies are what we call the Threads or _Hilos_.
 With the proper rites, the connections can be tightened or loosened, invisibly affecting the relationships between things.
 
 ### Sympathy
